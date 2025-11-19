@@ -32,7 +32,7 @@ pnpm i
 pnpm run dev
 ```
 
-## Build Prod
+## Build Prod.
 
 ```sh
 pnpm run build
